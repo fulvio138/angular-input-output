@@ -1,6 +1,9 @@
-# angular-input-output
+# angular @Input @Output @Host
 
-@Input @Output - Decorators example
+@Input @Output @Host - Decorators example
+
+The list of users is obtained from:
+https://jsonplaceholder.typicode.com/users
 
 # InputOutput
 
